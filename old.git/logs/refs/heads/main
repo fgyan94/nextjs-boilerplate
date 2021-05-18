@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0f9975c4aad8b7f01f41be992912b44ea634bb54 Yan Gonçalves <fgyan94@gmail.com> 1621288981 -0300	commit (initial): Initial commit from Create Next App
+0f9975c4aad8b7f01f41be992912b44ea634bb54 2d296cd6814a6528025fa2d71c4584ef750b71f9 Yan Gonçalves <fgyan94@gmail.com> 1621293284 -0300	commit: Add husky and lint-staged
+2d296cd6814a6528025fa2d71c4584ef750b71f9 a64d43fcb32d7ff691fa921b719d264ad6bcaeb4 Yan Gonçalves <fgyan94@gmail.com> 1621294718 -0300	commit: Add RTL config and first test
+a64d43fcb32d7ff691fa921b719d264ad6bcaeb4 2b8d5ad149e12bf117f153eebe66009607600b80 Yan Gonçalves <fgyan94@gmail.com> 1621294923 -0300	commit: Add RTL config and first test
+2b8d5ad149e12bf117f153eebe66009607600b80 22a42120ab7bd384ef412edb75be035c1d8c8c84 Yan Gonçalves <fgyan94@gmail.com> 1621356378 -0300	commit: Criação boilerplate

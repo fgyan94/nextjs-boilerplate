@@ -1,0 +1,89 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": true,
+
+  "terminal.integrated.fontFamily": "Fira Code",
+
+  "workbench.editor.labelFormat": "short",
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "material-icon-theme",
+
+  "editor.renderLineHighlight": "gutter",
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 22,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "node_modules": true
+  },
+
+  "material-icon-theme.folders.associations": {
+    "infra": "app",
+    "entities": "class",
+    "schemas": "class",
+    "typeorm": "database",
+    "repositories": "mappings",
+    "http": "container",
+    "migrations": "tools",
+    "modules": "compeditor.ore",
+    "dtos": "typescript",
+    "fakes": "mock",
+    "websockets": "pipe",
+    "protos": "pipe",
+    "grpc": "pipe",
+    "filters": "guard",
+    "dto": "template"
+  },
+
+  "material-icon-theme.files.associations": {
+    "stories.tsx": "storybook",
+    "styles.ts": "css",
+    "*.styles.ts": "css",
+    "ormconfig.json": "database",
+    "tsconfig.json": "tune",
+    "*.proto": "3d",
+    "*.resolver.ts": "graphql",
+    "*.input.ts": "graphql",
+    "*.mocks.ts": "mocha",
+    "*.test.tsx": "Test-ts",
+    "test.tsx": "Test-ts"
+  },
+
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json"
+  },
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+
+  "prettier.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.suggestSelection": "first",
+
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "git.ignoreLimitWarning": true
+}
